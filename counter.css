@@ -1,0 +1,83 @@
+body{
+    background-image: url(ppl.jpg);
+}
+
+.box{
+    border: none;
+    width: 350px;
+    text-align: center;
+    height: 350px;
+    border-radius: 5px;
+    background-color: #ffffff3b;
+    margin-top: 100px;
+    margin-left: 600px;
+    padding-top: 2px;
+}
+
+.box2{
+    border: none;
+    width: 350px;
+    text-align: center;
+    height: 350px;
+    border-radius: 5px;
+    background-color: #ffffff3b;
+    margin-top: 30px;
+    margin-left: 600px;
+    padding-top: 2px;
+}
+
+.title{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 5px;
+    
+}
+
+.inc{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button{
+    background-color: brown;
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 250px;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin-left: 50px;
+}
+
+.button:hover{
+    background-color: rgba(165, 42, 42, 0.703);
+}
+
+.button:active{
+    background-color: rgba(189, 51, 51, 0.703);
+}
+
+
+.save{
+    background-color: rgb(65, 95, 23);
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 250px;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.save:hover{
+    background-color: rgba(38, 197, 41, 0.388);
+}
+
+.save:active{
+    background-color: rgba(95, 189, 51, 0.479);
+}
