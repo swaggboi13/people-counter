@@ -39,7 +39,7 @@ body{
 }
 
 .button{
-    background-color: brown;
+    background-color: rgb(92, 39, 39);
     color: white;
     border: 1px;
     border-radius: 5px;
@@ -61,7 +61,7 @@ body{
 
 
 .save{
-    background-color: rgb(65, 95, 23);
+    background-color: rgb(23, 95, 95);
     color: white;
     border: 1px;
     border-radius: 5px;
